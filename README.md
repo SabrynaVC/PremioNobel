@@ -1,6 +1,8 @@
-[](https://i.postimg.cc/3xNcBcX5/Nobel-980-300.png)
+[Nobel](https://i.postimg.cc/3xNcBcX5/Nobel-980-300.png)
 
 # Análise dos vencedores do Prêmio Nobel em 120 anos :trophy:
+
+[Nobel](https://i.postimg.cc/3xNcBcX5/Nobel-980-300.png)
 
 O Prêmio Nobel foi instituído em 1901 pelo químico e inventor sueco Alfred Nobel. Desde então, o prêmio se consolidou como uma das maiores honrarias para indivíduos e organizações que promovem avanços significativos no conhecimento e na humanidade.
 
