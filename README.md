@@ -1,4 +1,7 @@
 ![](https://i.postimg.cc/3xNcBcX5/Nobel-980-300.png)
+[![Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/SabrynaVC/PremioNobel/blob/main/ProjetoFinal_Sabryna_Viola.ipynb)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sabrynaviola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabryna-viola/)
 
 # Análise dos vencedores do Prêmio Nobel em 120 anos :trophy:
 
