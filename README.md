@@ -1,9 +1,10 @@
 ![](https://i.postimg.cc/3xNcBcX5/Nobel-980-300.png)
+
+# Análise dos vencedores do Prêmio Nobel em 120 anos :trophy:
+
 [![Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/SabrynaVC/PremioNobel/blob/main/ProjetoFinal_Sabryna_Viola.ipynb)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sabrynaviola)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabryna-viola/)
-
-# Análise dos vencedores do Prêmio Nobel em 120 anos :trophy:
 
 O Prêmio Nobel foi instituído em 1901 pelo químico e inventor sueco Alfred Nobel. Desde então, o prêmio se consolidou como uma das maiores honrarias para indivíduos e organizações que promovem avanços significativos no conhecimento e na humanidade.
 
